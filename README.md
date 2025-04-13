@@ -27,6 +27,6 @@ Configurações básicas de ambiente e publicação de aplicação web
 A importância de versionamento com Git e GitHub, integrando o repositório ao projeto
 
 📎 Link do Repositório
-
+https://github.com/AlyssonSilv/resumo-do-lab..git
 
 

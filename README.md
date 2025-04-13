@@ -26,5 +26,13 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Utilização do **Azure Portal** e **Azure CLI** para a criação e gerenciamento das VMs
 - Monitoramento e **gerenciamento de recursos** de máquinas virtuais para otimizar o desempenho e custos
 
+📊 **Configurando uma Instância de Banco de Dados na Azure**:
+- Criação de uma instância de **Banco de Dados SQL** usando o serviço **Azure SQL Database**
+- Seleção do tipo de banco de dados (Ex: **Single Database** ou **Elastic Pool**)
+- Configuração da **escala de desempenho** para otimizar o custo e a performance de acordo com as necessidades da aplicação
+- Definição das **regras de firewall** para permitir acesso à instância de banco de dados de diferentes redes
+- Conexão do banco de dados à aplicação hospedada na nuvem usando a **string de conexão** fornecida pelo Azure
+- Monitoramento e **gerenciamento de recursos** do banco de dados, como backups automáticos e análise de desempenho
+
 📎 **Link do Repositório**  
 [https://github.com/AlyssonSilv/resumo-do-lab.git](https://github.com/AlyssonSilv/resumo-do-lab.git)
